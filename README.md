@@ -1,3 +1,3 @@
 # tuto-eclipse
-code source du tutoriel sur eclipse sur java
+code source du tutoriel java sur eclipse.
 
